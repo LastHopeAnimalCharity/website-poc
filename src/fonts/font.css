@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AustieBostKittenKlub';
+  src: url('AustieBostKittenKlub.eot');
+  src: url('AustieBostKittenKlub.woff2') format('woff2'),
+       url('AustieBostKittenKlub.woff') format('woff'),
+       url('AustieBostKittenKlub.ttf') format('truetype'),
+       url('AustieBostKittenKlub.svg#AustieBostKittenKlub') format('svg'),
+       url('AustieBostKittenKlub.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
